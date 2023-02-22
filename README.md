@@ -1,5 +1,5 @@
-# Event-driven architecture Spring Boot with Java and MySQL
+# event-driven-java-spring-boot-mysql
 
-This is a project template for an event-driven architecture using Spring, Java and MySQL.
+This is a project template for an event-driven architecture using Java, Spring and MySQL.
 
-The project contains dependencies for Spring Boot, Java 11, Spring Data JPA, MySQL and Spring Cloud Stream, and includes a Maven plugin.
+The project contains dependencies for Java 11, Spring Boot, Spring Data JPA, Spring Cloud Stream and MySQL Driver, and includes a Maven plugin.
